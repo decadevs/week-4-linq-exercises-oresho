@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\Decagon\\Linq\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D641FF90-CD47-4A57-AC4F-74A2C81BF9F0}|Linq\\Linq.csproj|c:\\users\\hp\\desktop\\decagon\\linq\\linq\\service\\ilinqservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D641FF90-CD47-4A57-AC4F-74A2C81BF9F0}|Linq\\Linq.csproj|solutionrelative:linq\\service\\ilinqservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D641FF90-CD47-4A57-AC4F-74A2C81BF9F0}|Linq\\Linq.csproj|c:\\users\\hp\\desktop\\decagon\\linq\\linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D641FF90-CD47-4A57-AC4F-74A2C81BF9F0}|Linq\\Linq.csproj|solutionrelative:linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D641FF90-CD47-4A57-AC4F-74A2C81BF9F0}|Linq\\Linq.csproj|c:\\users\\hp\\desktop\\decagon\\linq\\linq\\service\\linqservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D641FF90-CD47-4A57-AC4F-74A2C81BF9F0}|Linq\\Linq.csproj|solutionrelative:linq\\service\\linqservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D641FF90-CD47-4A57-AC4F-74A2C81BF9F0}|Linq\\Linq.csproj|c:\\users\\hp\\desktop\\decagon\\linq\\linq\\repository\\istaterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D641FF90-CD47-4A57-AC4F-74A2C81BF9F0}|Linq\\Linq.csproj|solutionrelative:linq\\repository\\istaterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D641FF90-CD47-4A57-AC4F-74A2C81BF9F0}|Linq\\Linq.csproj|c:\\users\\hp\\desktop\\decagon\\linq\\linq\\repository\\staterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D641FF90-CD47-4A57-AC4F-74A2C81BF9F0}|Linq\\Linq.csproj|solutionrelative:linq\\repository\\staterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D641FF90-CD47-4A57-AC4F-74A2C81BF9F0}|Linq\\Linq.csproj|c:\\users\\hp\\desktop\\decagon\\linq\\linq\\model\\sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D641FF90-CD47-4A57-AC4F-74A2C81BF9F0}|Linq\\Linq.csproj|solutionrelative:linq\\model\\sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D641FF90-CD47-4A57-AC4F-74A2C81BF9F0}|Linq\\Linq.csproj|c:\\users\\hp\\desktop\\decagon\\linq\\linq\\model\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D641FF90-CD47-4A57-AC4F-74A2C81BF9F0}|Linq\\Linq.csproj|solutionrelative:linq\\model\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D641FF90-CD47-4A57-AC4F-74A2C81BF9F0}|Linq\\Linq.csproj|c:\\users\\hp\\desktop\\decagon\\linq\\linq\\model\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D641FF90-CD47-4A57-AC4F-74A2C81BF9F0}|Linq\\Linq.csproj|solutionrelative:linq\\model\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StateRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\Linq\\Linq\\Repository\\StateRepository.cs",
+              "RelativeDocumentMoniker": "Linq\\Repository\\StateRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\Linq\\Linq\\Repository\\StateRepository.cs",
+              "RelativeToolTip": "Linq\\Repository\\StateRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T21:30:52.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IStateRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\Linq\\Linq\\Repository\\IStateRepository.cs",
+              "RelativeDocumentMoniker": "Linq\\Repository\\IStateRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\Linq\\Linq\\Repository\\IStateRepository.cs",
+              "RelativeToolTip": "Linq\\Repository\\IStateRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T21:29:50.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "State.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\Linq\\Linq\\Model\\State.cs",
+              "RelativeDocumentMoniker": "Linq\\Model\\State.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\Linq\\Linq\\Model\\State.cs",
+              "RelativeToolTip": "Linq\\Model\\State.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T21:17:57.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Sales.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\Linq\\Linq\\Model\\Sales.cs",
+              "RelativeDocumentMoniker": "Linq\\Model\\Sales.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\Linq\\Linq\\Model\\Sales.cs",
+              "RelativeToolTip": "Linq\\Model\\Sales.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T00:21:58.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LinqService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\Linq\\Linq\\Service\\LinqService.cs",
+              "RelativeDocumentMoniker": "Linq\\Service\\LinqService.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\Linq\\Linq\\Service\\LinqService.cs",
+              "RelativeToolTip": "Linq\\Service\\LinqService.cs",
+              "ViewState": "AQIAAIUAAAAAAAAAAAAgwI8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T21:30:12.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\Linq\\Linq\\Program.cs",
+              "RelativeDocumentMoniker": "Linq\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\Linq\\Linq\\Program.cs",
+              "RelativeToolTip": "Linq\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T21:24:22.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ILinqService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\Linq\\Linq\\Service\\ILinqService.cs",
+              "RelativeDocumentMoniker": "Linq\\Service\\ILinqService.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\Linq\\Linq\\Service\\ILinqService.cs",
+              "RelativeToolTip": "Linq\\Service\\ILinqService.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwA8AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T21:29:50.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\Linq\\Linq\\Model\\Item.cs",
+              "RelativeDocumentMoniker": "Linq\\Model\\Item.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\Linq\\Linq\\Model\\Item.cs",
+              "RelativeToolTip": "Linq\\Model\\Item.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T00:20:37.502Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

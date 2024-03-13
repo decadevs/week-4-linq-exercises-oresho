@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Fj1H+Zmi0FoATeVtt/YOMbf9QNfglsjy43fqEoGFGa93SEgXxVrtUzUj3kvcKtP3b7f0wvj7an/SGLBCel3v5g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\Desktop\\Decagon\\Linq\\Linq\\Linq.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\consoletables\\2.6.1\\consoletables.2.6.1.nupkg.sha512"
+  ],
+  "logs": []
+}
